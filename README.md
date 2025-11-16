@@ -60,7 +60,7 @@ tamil-llm/
 │
 ├── app.py
 ├── templates/
-│   └── index.html
+    └── index.html
 ├── static/ (optional)
 └── README.md
 
