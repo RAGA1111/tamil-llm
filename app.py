@@ -29,5 +29,3 @@ def chat():
     except Exception as e:
         return jsonify({"reply": f"பிழை ஏற்பட்டது: {e}"})
 
-if __name__ == '__main__':
-    app.run(debug=True)
