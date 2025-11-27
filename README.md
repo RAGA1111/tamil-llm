@@ -83,7 +83,7 @@ Used through LM Studio for local inference
 * Add streaming output for faster responses
 * English to Tamil translation toggle
 * Chat history storage
-* Voice input and text-to-speech
+* Voice input and text-to-speech.
 
 ## Author
 
