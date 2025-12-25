@@ -80,12 +80,12 @@ Used through LM Studio for local inference
 
 ## Future Plans
 
-* Add streaming output for faster responses
-* English to Tamil translation toggle
-* Chat history storage
+* Add streaming output for faster responses.
+* English to Tamil translation toggle.
+* Chat history storage.
 * Voice input and text-to-speech.
 
-## Author
+## Author 
 
 RAGA1111
 GitHub: [https://github.com/RAGA1111](https://github.com/RAGA1111)
