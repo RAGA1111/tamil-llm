@@ -3,7 +3,7 @@ from flask_cors import CORS
 import requests
 import logging
 
-# ---------------- CONFIG ----------------
+# ---------------- CONFIG ------------
 MODEL_NAME = "tamil-llama"
 API_URL = "http://localhost:1234/v1/chat/completions"
 TIMEOUT = 60  # seconds
