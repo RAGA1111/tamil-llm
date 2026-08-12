@@ -1,5 +1,4 @@
 ## Tamil LLM
-
 This project is a Tamil Large Language Model setup built using the Tamil LLaMA model by Abhinand from Hugging Face.
 The model is connected through LM Studio and integrated with a Python backend, with an HTML/CSS frontend for interaction.
 
